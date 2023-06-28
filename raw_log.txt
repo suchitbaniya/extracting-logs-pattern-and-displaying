@@ -1,0 +1,9 @@
+Host-1                  192.168.1.1
+server-eno3             172.16.7.22
+host-4                  172.16.7.253
+router-client-p2p       10.10.10.99
+host-6                  1922.168.3.133
+client-eth0/0/2         10.10.11.172
+host-8                  172.16.7.85
+host-11-router-eth4     10.10.10.140
+host-10-server          172.22.0.81
